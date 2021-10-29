@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS `agendamentos` (
 --
 
 INSERT INTO `agendamentos` (`id`, `nome`, `telefone`, `origem`, `data_contato`, `observacao`) VALUES
-(1, 'Nicolas Coiado', '11954609200', 'Celular', '2021-09-30', 'bbbb');
+(1, 'teste', '11948201010', 'Celular', '2021-10-10', 'ae');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
